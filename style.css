@@ -136,3 +136,9 @@ ul.nutrition li {
     font-weight: 700;
     letter-spacing: 2px;
 }
+
+#creator {
+    text-align: right;
+    font-family: 'Dancing Script', cursive;
+    margin-right: 10px;
+}
