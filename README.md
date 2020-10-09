@@ -9,7 +9,7 @@ In this project, you’ll CSS3 Box Model to fix a fictional restaurant’s websi
 
 Install the project locally
 ```bash
-git clone 
+git clone https://github.com/SenayYakut/The-Box-Model-Davie-s-Burgers.git
 
 ```
  
